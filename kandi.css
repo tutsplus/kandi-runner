@@ -15,7 +15,7 @@ canvas {
   left: 0;
   border: 1px solid black;
   z-index: 1;
-  width: 600px;
+  width: 595px;
   height: 360px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -39,7 +39,7 @@ a {
 }
 
 .wrapper {
-  width: 600px;
+  width: 595px;
   height: 360px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -51,7 +51,7 @@ a {
 
 #menu {
   position: absolute;
-  width: 600px;
+  width: 595px;
   height: 360px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -215,7 +215,7 @@ a {
   text-align: center;
   padding-top: 92px;
   z-index: 7;
-  width: 600px;
+  width: 595px;
   height: 360px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
